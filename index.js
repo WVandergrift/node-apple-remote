@@ -3,7 +3,7 @@ var util = require('util')
   , events = require('events')
   , HID = require('node-hid')
   , VENDOR_ID = 0x5ac
-  , PRODUCT_ID = 0x8242;
+  , PRODUCT_ID = 0x0315;
 
 /*
  * Data definitions
