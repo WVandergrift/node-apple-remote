@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/dhleong/node-apple-remote",
   "dependencies": {
-    "node-hid": "^0.5.1"
+    "node-hid": "3.1.0"
   }
 }
